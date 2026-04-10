@@ -1,4 +1,4 @@
-##📊 Project Overview
+## 📊 Project Overview
 
 A complete end-to-end data analytics project analyzing Swiggy sales data using SQL + Power BI.
 This project demonstrates real-world data analysis workflows including data cleaning, exploratory data analysis (EDA), KPI building, and dashboard storytelling.
@@ -14,14 +14,14 @@ To analyze Swiggy sales data with a primary focus on **sales trends and performa
 * Order behavior patterns influencing overall revenue
 
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 * Power BI → Dashboard & Data Visualization
 * SQL (PostgreSQL) → Data Cleaning & EDA
 * DAX → KPIs and calculated measures
 * Excel/CSV → Raw dataset
 
 
-##📊 Dataset Description
+## 📊 Dataset Description
 
 The dataset contains:
 
@@ -32,7 +32,7 @@ The dataset contains:
 * Sales amount & order value
 
 
-##📈 Dashboard Overview
+## 📈 Dashboard Overview
 
 The Power BI dashboard includes:
 
@@ -43,7 +43,7 @@ The Power BI dashboard includes:
 * Average Order Value: ₹268.50
 
 
-##📊 Visualizations
+## 📊 Visualizations
 
   📅 Monthly Sales Trend
 
@@ -59,7 +59,7 @@ The Power BI dashboard includes:
 
 
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 This project demonstrates:
 
