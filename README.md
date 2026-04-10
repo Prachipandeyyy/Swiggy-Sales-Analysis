@@ -58,13 +58,18 @@ The Power BI dashboard includes:
 🏪 Restaurant-wise Analysis
 
 
+
 🎯 Learning Outcomes
 
 This project demonstrates:
 
 * Real-world data cleaning using SQL
-* Writing EDA queries for business insights
+  
+*  Writing EDA queries for business insights
+
 * Creating interactive dashboards in Power BI
+
 * Applying DAX for KPIs and metrics
+
 * Translating data into business decisions
 
