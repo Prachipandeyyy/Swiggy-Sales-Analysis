@@ -3,6 +3,7 @@
 A complete end-to-end data analytics project analyzing Swiggy sales data using SQL + Power BI.
 This project demonstrates real-world data analysis workflows including data cleaning, exploratory data analysis (EDA), KPI building, and dashboard storytelling.
 
+
 ## 🚀 Project Objective
 
 To analyze Swiggy sales data with a primary focus on **sales trends and performance patterns**, and derive actionable insights related to:
@@ -11,6 +12,7 @@ To analyze Swiggy sales data with a primary focus on **sales trends and performa
 * Revenue distribution across cities and states
 * Identification of top-performing locations by sales
 * Order behavior patterns influencing overall revenue
+
 
 🛠️ Tech Stack
 * Power BI → Dashboard & Data Visualization
@@ -29,6 +31,7 @@ The dataset contains:
 * Food category & restaurant details
 * Sales amount & order value
 
+
 📈 Dashboard Overview
 
 The Power BI dashboard includes:
@@ -39,13 +42,19 @@ The Power BI dashboard includes:
 * Average Rating: 4.34
 * Average Order Value: ₹268.50
 
+
 📊 Visualizations
 
 📅 Monthly Sales Trend
+
 📆 Daily Sales Trend
+
 🌍 Sales by State
+
 🏙️ Top 5 Cities by Sales
+
 🍽️ Category-wise Performance
+
 🏪 Restaurant-wise Analysis
 
 
