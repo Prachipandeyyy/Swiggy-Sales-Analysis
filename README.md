@@ -18,15 +18,6 @@ To analyze Swiggy sales data with a primary focus on **sales trends and performa
 * DAX → KPIs and calculated measures
 * Excel/CSV → Raw dataset
 
-📦 Swiggy-Sales-Analysis
- ┣ 📂 data/
- ┃ ┗ swiggy_Data.csv
- ┣ 📂 sql/
- ┃ ┗ swiggy.sql
- ┣ 📂 dashboard/
- ┃ ┗ Swiggy_dashboard.pbit
- | ┗ Swiggy dashboard.pdf
- ┗ 📄 README.md
 
 📊 Dataset Description
 
